@@ -14,7 +14,7 @@ function Filter( {filter, setFilter} ) {
             </div>
 
             <div>
-                <p>Order</p>
+                <p>Order:</p>
                 <button>ASC</button>
                 <button>DESC</button>
             </div>
